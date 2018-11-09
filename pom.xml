@@ -362,7 +362,7 @@
         <spring.version>4.3.19.RELEASE</spring.version>
         <profile.props.file>development.properties</profile.props.file>
         <spring.security.version>5.0.8.RELEASE</spring.security.version>
-        <wavemaker.studio.version>9.9.9.5780</wavemaker.studio.version>
+        <wavemaker.studio.version>9.9.9.5791</wavemaker.studio.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.lib.directory>${basedir}/lib</project.lib.directory>
     </properties>
