@@ -3,4 +3,9 @@
   "permission" : "Authenticated",
   "roles" : null,
   "httpMethod" : null
+}, {
+  "urlPattern" : "/pages/Login/**",
+  "permission" : "PermitAll",
+  "roles" : [ ],
+  "httpMethod" : null
 } ]
